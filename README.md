@@ -80,10 +80,10 @@ The following Diagram depicts the flow of our Entity Relation Diagram to simplif
 <ul><li><a target="_blank" href="http://onlineshop-env.eba-cxymjmdv.ap-northeast-1.elasticbeanstalk.com/swagger-ui/">Live Project Link</a></li></ul>
   
 <!-- ============================================  CONTRIBUTORS ======================================================  -->
-## Our Team Members 👨‍💻
+<!-- ## Our Team Members 👨‍💻
   - **[@Yash Bhatter](https://github.com/Bhatteryash)**
   - **[@Rohit Roy](https://github.com/Rohit-M-Roy)**
   - **[@Rohit Kapade](https://github.com/rohitkapade)**
   - **[@Humam](https://github.com/humamul)**
-  - **[@Sai Datta Reddy](https://github.com/SDR01)**
+  - **[@Sai Datta Reddy](https://github.com/SDR01)** -->
 
