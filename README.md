@@ -11,7 +11,7 @@
   <li><h3>Cart Module</h3></li>
 </ul>
 <h1>Deployed Video Link</h1>
-<ul><li><a target="_blank" href="https://drive.google.com/file/d/17o2alq8DNX1q7yQvpWKVQwQ5uvEYu7OQ/view?usp=sharing">Live Project Video Link</a></li></ul>
+<ul><li><a target="_blank" href="https://drive.google.com/file/d/1r-fGm4sQuMkNZtCkSfoXzuTkFDWRXtnh/view?usp=drive_link">Live Project Video Link</a></li></ul>
 
 # Project Schema Plan
 
